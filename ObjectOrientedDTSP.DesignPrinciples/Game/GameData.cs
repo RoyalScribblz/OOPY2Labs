@@ -18,8 +18,8 @@ public class GameData
         for (int i = 0; i < Length; i++)
         {
             questions.Add(random.NextBool()
-                ? new PositiveQuestionBase(i+1, lastResult)
-                : new NegativeQuestionBase(i+1, lastResult));
+                ? new PositiveQuestion(i+1, lastResult)
+                : new NegativeQuestion(i+1, lastResult));
 
             lastResult = questions.Last().Result;
         }
