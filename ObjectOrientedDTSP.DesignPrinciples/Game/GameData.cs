@@ -1,4 +1,4 @@
-using ObjectOrientedDTSP.DesignPrinciples.Classes.Extensions;
+using ObjectOrientedDTSP.DesignPrinciples.Extensions;
 using ObjectOrientedDTSP.DesignPrinciples.Question;
 
 namespace ObjectOrientedDTSP.DesignPrinciples.Game;

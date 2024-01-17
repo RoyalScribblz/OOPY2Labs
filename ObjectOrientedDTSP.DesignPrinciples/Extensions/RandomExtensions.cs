@@ -1,4 +1,4 @@
-namespace ObjectOrientedDTSP.DesignPrinciples.Classes.Extensions;
+namespace ObjectOrientedDTSP.DesignPrinciples.Extensions;
 
 public static class RandomExtensions
 {
