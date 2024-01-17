@@ -1,6 +1,6 @@
-namespace ObjectOrientedDTSP.DesignPrinciples.Classes.QuestionClasses;
+namespace ObjectOrientedDTSP.DesignPrinciples.Question;
 
-public abstract class Question(int questionNumber, int numberOne)
+public abstract class QuestionBase(int questionNumber, int numberOne)
 {
     public int QuestionNumber { get; } = questionNumber;
     protected abstract string Symbol { get; }

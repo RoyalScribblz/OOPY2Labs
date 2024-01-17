@@ -1,8 +1,8 @@
-﻿using ObjectOrientedDTSP.DesignPrinciples.Classes.GameClasses;
-using ObjectOrientedDTSP.DesignPrinciples.Classes.QuestionClasses;
+﻿using ObjectOrientedDTSP.DesignPrinciples.Game;
+using ObjectOrientedDTSP.DesignPrinciples.Question;
 
 GameData gameData = new();
-foreach (Question question in gameData.Questions)
+foreach (QuestionBase question in gameData.Questions)
 {
     Console.WriteLine($"Question {question.QuestionNumber}: {question} = ");
 

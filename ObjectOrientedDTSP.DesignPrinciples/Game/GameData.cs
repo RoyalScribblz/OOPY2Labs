@@ -1,25 +1,25 @@
 using ObjectOrientedDTSP.DesignPrinciples.Classes.Extensions;
-using ObjectOrientedDTSP.DesignPrinciples.Classes.QuestionClasses;
+using ObjectOrientedDTSP.DesignPrinciples.Question;
 
-namespace ObjectOrientedDTSP.DesignPrinciples.Classes.GameClasses;
+namespace ObjectOrientedDTSP.DesignPrinciples.Game;
 
 public class GameData
 {
     private const int Length = 10;
-    public IEnumerable<Question> Questions { get; }
+    public IEnumerable<QuestionBase> Questions { get; }
     public int CorrectAnswers { get; set; }
     
     public GameData()
     {
-        List<Question> questions = [];
+        List<QuestionBase> questions = [];
         Random random = new();
         
         int lastResult = random.Next(1, Length+1);
         for (int i = 0; i < Length; i++)
         {
             questions.Add(random.NextBool()
-                ? new PositiveQuestion(i+1, lastResult)
-                : new NegativeQuestion(i+1, lastResult));
+                ? new PositiveQuestionBase(i+1, lastResult)
+                : new NegativeQuestionBase(i+1, lastResult));
 
             lastResult = questions.Last().Result;
         }
