@@ -1,0 +1,14 @@
+/Users/jlloyd/RiderProjects/ObjectOrientedDTSP/ObjectOrientedDTSP.DesignPrinciples/bin/Debug/net8.0/ObjectOrientedDTSP.DesignPrinciples
+/Users/jlloyd/RiderProjects/ObjectOrientedDTSP/ObjectOrientedDTSP.DesignPrinciples/bin/Debug/net8.0/ObjectOrientedDTSP.DesignPrinciples.deps.json
+/Users/jlloyd/RiderProjects/ObjectOrientedDTSP/ObjectOrientedDTSP.DesignPrinciples/bin/Debug/net8.0/ObjectOrientedDTSP.DesignPrinciples.runtimeconfig.json
+/Users/jlloyd/RiderProjects/ObjectOrientedDTSP/ObjectOrientedDTSP.DesignPrinciples/bin/Debug/net8.0/ObjectOrientedDTSP.DesignPrinciples.dll
+/Users/jlloyd/RiderProjects/ObjectOrientedDTSP/ObjectOrientedDTSP.DesignPrinciples/bin/Debug/net8.0/ObjectOrientedDTSP.DesignPrinciples.pdb
+/Users/jlloyd/RiderProjects/ObjectOrientedDTSP/ObjectOrientedDTSP.DesignPrinciples/obj/Debug/net8.0/ObjectOrientedDTSP.DesignPrinciples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jlloyd/RiderProjects/ObjectOrientedDTSP/ObjectOrientedDTSP.DesignPrinciples/obj/Debug/net8.0/ObjectOrientedDTSP.DesignPrinciples.AssemblyInfoInputs.cache
+/Users/jlloyd/RiderProjects/ObjectOrientedDTSP/ObjectOrientedDTSP.DesignPrinciples/obj/Debug/net8.0/ObjectOrientedDTSP.DesignPrinciples.AssemblyInfo.cs
+/Users/jlloyd/RiderProjects/ObjectOrientedDTSP/ObjectOrientedDTSP.DesignPrinciples/obj/Debug/net8.0/ObjectOrientedDTSP.DesignPrinciples.csproj.CoreCompileInputs.cache
+/Users/jlloyd/RiderProjects/ObjectOrientedDTSP/ObjectOrientedDTSP.DesignPrinciples/obj/Debug/net8.0/ObjectOrientedDTSP.DesignPrinciples.dll
+/Users/jlloyd/RiderProjects/ObjectOrientedDTSP/ObjectOrientedDTSP.DesignPrinciples/obj/Debug/net8.0/refint/ObjectOrientedDTSP.DesignPrinciples.dll
+/Users/jlloyd/RiderProjects/ObjectOrientedDTSP/ObjectOrientedDTSP.DesignPrinciples/obj/Debug/net8.0/ObjectOrientedDTSP.DesignPrinciples.pdb
+/Users/jlloyd/RiderProjects/ObjectOrientedDTSP/ObjectOrientedDTSP.DesignPrinciples/obj/Debug/net8.0/ObjectOrientedDTSP.DesignPrinciples.genruntimeconfig.cache
+/Users/jlloyd/RiderProjects/ObjectOrientedDTSP/ObjectOrientedDTSP.DesignPrinciples/obj/Debug/net8.0/ref/ObjectOrientedDTSP.DesignPrinciples.dll

@@ -1,0 +1,14 @@
+/Users/jlloyd/RiderProjects/ObjectOrientedDTSP/ObjectOrientedDTSP/bin/Debug/net8.0/ObjectOrientedDTSP
+/Users/jlloyd/RiderProjects/ObjectOrientedDTSP/ObjectOrientedDTSP/bin/Debug/net8.0/ObjectOrientedDTSP.deps.json
+/Users/jlloyd/RiderProjects/ObjectOrientedDTSP/ObjectOrientedDTSP/bin/Debug/net8.0/ObjectOrientedDTSP.runtimeconfig.json
+/Users/jlloyd/RiderProjects/ObjectOrientedDTSP/ObjectOrientedDTSP/bin/Debug/net8.0/ObjectOrientedDTSP.dll
+/Users/jlloyd/RiderProjects/ObjectOrientedDTSP/ObjectOrientedDTSP/bin/Debug/net8.0/ObjectOrientedDTSP.pdb
+/Users/jlloyd/RiderProjects/ObjectOrientedDTSP/ObjectOrientedDTSP/obj/Debug/net8.0/ObjectOrientedDTSP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jlloyd/RiderProjects/ObjectOrientedDTSP/ObjectOrientedDTSP/obj/Debug/net8.0/ObjectOrientedDTSP.AssemblyInfoInputs.cache
+/Users/jlloyd/RiderProjects/ObjectOrientedDTSP/ObjectOrientedDTSP/obj/Debug/net8.0/ObjectOrientedDTSP.AssemblyInfo.cs
+/Users/jlloyd/RiderProjects/ObjectOrientedDTSP/ObjectOrientedDTSP/obj/Debug/net8.0/ObjectOrientedDTSP.csproj.CoreCompileInputs.cache
+/Users/jlloyd/RiderProjects/ObjectOrientedDTSP/ObjectOrientedDTSP/obj/Debug/net8.0/ObjectOrientedDTSP.dll
+/Users/jlloyd/RiderProjects/ObjectOrientedDTSP/ObjectOrientedDTSP/obj/Debug/net8.0/refint/ObjectOrientedDTSP.dll
+/Users/jlloyd/RiderProjects/ObjectOrientedDTSP/ObjectOrientedDTSP/obj/Debug/net8.0/ObjectOrientedDTSP.pdb
+/Users/jlloyd/RiderProjects/ObjectOrientedDTSP/ObjectOrientedDTSP/obj/Debug/net8.0/ObjectOrientedDTSP.genruntimeconfig.cache
+/Users/jlloyd/RiderProjects/ObjectOrientedDTSP/ObjectOrientedDTSP/obj/Debug/net8.0/ref/ObjectOrientedDTSP.dll
