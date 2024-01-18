@@ -1,0 +1,15 @@
+/Users/jlloyd/RiderProjects/ObjectOrientedDTSP/ObjectOrientedDTSP.Collections/bin/Debug/net8.0/ObjectOrientedDTSP.Collections
+/Users/jlloyd/RiderProjects/ObjectOrientedDTSP/ObjectOrientedDTSP.Collections/bin/Debug/net8.0/ObjectOrientedDTSP.Collections.deps.json
+/Users/jlloyd/RiderProjects/ObjectOrientedDTSP/ObjectOrientedDTSP.Collections/bin/Debug/net8.0/ObjectOrientedDTSP.Collections.runtimeconfig.json
+/Users/jlloyd/RiderProjects/ObjectOrientedDTSP/ObjectOrientedDTSP.Collections/bin/Debug/net8.0/ObjectOrientedDTSP.Collections.dll
+/Users/jlloyd/RiderProjects/ObjectOrientedDTSP/ObjectOrientedDTSP.Collections/bin/Debug/net8.0/ObjectOrientedDTSP.Collections.pdb
+/Users/jlloyd/RiderProjects/ObjectOrientedDTSP/ObjectOrientedDTSP.Collections/obj/Debug/net8.0/ObjectOrientedDTSP.Collections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jlloyd/RiderProjects/ObjectOrientedDTSP/ObjectOrientedDTSP.Collections/obj/Debug/net8.0/ObjectOrientedDTSP.Collections.AssemblyInfoInputs.cache
+/Users/jlloyd/RiderProjects/ObjectOrientedDTSP/ObjectOrientedDTSP.Collections/obj/Debug/net8.0/ObjectOrientedDTSP.Collections.AssemblyInfo.cs
+/Users/jlloyd/RiderProjects/ObjectOrientedDTSP/ObjectOrientedDTSP.Collections/obj/Debug/net8.0/ObjectOrientedDTSP.Collections.csproj.CoreCompileInputs.cache
+/Users/jlloyd/RiderProjects/ObjectOrientedDTSP/ObjectOrientedDTSP.Collections/obj/Debug/net8.0/ObjectOrientedDTSP.Collections.sourcelink.json
+/Users/jlloyd/RiderProjects/ObjectOrientedDTSP/ObjectOrientedDTSP.Collections/obj/Debug/net8.0/ObjectOrientedDTSP.Collections.dll
+/Users/jlloyd/RiderProjects/ObjectOrientedDTSP/ObjectOrientedDTSP.Collections/obj/Debug/net8.0/refint/ObjectOrientedDTSP.Collections.dll
+/Users/jlloyd/RiderProjects/ObjectOrientedDTSP/ObjectOrientedDTSP.Collections/obj/Debug/net8.0/ObjectOrientedDTSP.Collections.pdb
+/Users/jlloyd/RiderProjects/ObjectOrientedDTSP/ObjectOrientedDTSP.Collections/obj/Debug/net8.0/ObjectOrientedDTSP.Collections.genruntimeconfig.cache
+/Users/jlloyd/RiderProjects/ObjectOrientedDTSP/ObjectOrientedDTSP.Collections/obj/Debug/net8.0/ref/ObjectOrientedDTSP.Collections.dll
